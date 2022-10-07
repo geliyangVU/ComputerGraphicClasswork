@@ -23,3 +23,5 @@ This is the demo repository for Computer graphic classwork
 - Practice 2D transformations on the canvas.
 
 
+## Spinning Pyramid - lab5 (https://csc8470-fall2022.github.io/lab5-pyramid-geliyangVU/lab5.html)
+- Created and animated a 3D pyramid.
