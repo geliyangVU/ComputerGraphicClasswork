@@ -25,3 +25,10 @@ This is the demo repository for Computer graphic classwork
 
 ## Spinning Pyramid - lab5 (https://csc8470-fall2022.github.io/lab5-pyramid-geliyangVU/lab5.html)
 - Created and animated a 3D pyramid.
+
+
+
+## 3D world navigation - hw4 (https://csc8470-fall2022.github.io/hw4-navigation-geliyangVU/hw4.html)
+- Created a 3D world and viewed it through the eyes of a person walking around in this world.
+
+
