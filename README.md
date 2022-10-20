@@ -32,5 +32,5 @@ This is the demo repository for Computer graphic classwork
 - Created a 3D world and viewed it through the eyes of a person walking around in this world.
 
 ## Implement a hierarchical model to create nested movement of robot arm - lab6(https://csc8470-fall2022.github.io/lab6-robotarm-geliyangVU/lab6.html).
-
+-The upper and lower arm can be controlled using top/dpwn and left/right arrow key in keyboard.
 
