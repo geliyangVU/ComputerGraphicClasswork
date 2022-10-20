@@ -31,4 +31,6 @@ This is the demo repository for Computer graphic classwork
 ## 3D world navigation - hw4 (https://csc8470-fall2022.github.io/hw4-navigation-geliyangVU/hw4.html)
 - Created a 3D world and viewed it through the eyes of a person walking around in this world.
 
+## Implement a hierarchical model to create nested movement of robot arm - lab6(https://csc8470-fall2022.github.io/lab6-robotarm-geliyangVU/lab6.html).
+
 
