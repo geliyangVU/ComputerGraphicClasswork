@@ -34,3 +34,10 @@ This is the demo repository for Computer graphic classwork
 ## Implement a hierarchical model to create nested movement of robot arm - lab6(https://csc8470-fall2022.github.io/lab6-robotarm-geliyangVU/lab6.html).
 -The upper and lower arm can be controlled using top/dpwn and left/right arrow key in keyboard.
 
+
+
+
+## Pixar's Luxo and Luxo junior - hw5(https://csc8470-fall2022.github.io/hw5-luxo-geliyangVU/hw5.html).
+-Created 3d hierarchical model of Luxo and Luxo Junior.
+
+
