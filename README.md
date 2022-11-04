@@ -44,3 +44,6 @@ This is the demo repository for Computer graphic classwork
 ## Implemented a controlled animation of a robot arm using keyframe interpolation.Lab7(https://csc8470-fall2022.github.io/lab7-keyframes-geliyangVU/lab7.html)
 
 ## Implement a controlled jump of hierarchical Luxo using keyframe interpolation.Hw6(https://csc8470-fall2022.github.io/hw6-luxojump-geliyangVU/hw6.html)
+
+## Added light into animation. Lab 8(https://csc8470-fall2022.github.io/lab8-moonphases-geliyangVU/lab8.html)
+
