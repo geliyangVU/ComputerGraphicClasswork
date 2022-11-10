@@ -48,3 +48,6 @@ This is the demo repository for Computer graphic classwork
 ## Added light into animation. Lab 8(https://csc8470-fall2022.github.io/lab8-moonphases-geliyangVU/lab8.html)
 
 ## Luxo animation. HW7(https://csc8470-fall2022.github.io/hw7-luxolight-geliyangVU/hw7.html)
+
+
+## Rotating pyramid with texture mapping - Lab9(https://csc8470-fall2022.github.io/lab9-textures-geliyangVU/lab9.html).
