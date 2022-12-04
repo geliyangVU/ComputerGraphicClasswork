@@ -51,3 +51,9 @@ This is the demo repository for Computer graphic classwork
 
 
 ## Rotating pyramid with texture mapping - Lab9(https://csc8470-fall2022.github.io/lab9-textures-geliyangVU/lab9.html).
+
+
+## Texture mapping - HW8 https://csc8470-fall2022.github.io/hw8-textures-geliyangVU/hw8.html
+
+
+## Rock Scissors Paper - Final https://csc8470-fall2022.github.io/final-geliyangVU/final.html
